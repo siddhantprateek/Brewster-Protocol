@@ -1,6 +1,6 @@
 # Brewster Protocol
 
-A Rondom Winner Game
+A Random Winner Game
 
 
 
